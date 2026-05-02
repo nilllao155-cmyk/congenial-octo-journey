@@ -4,5 +4,5 @@ const app = express();
 
 let port = 3000
 app.listen(port, () => {
-    console.log("bhai kia kar raha hai?")
+    console.log("bhai kia kar raza hai?")
 })
